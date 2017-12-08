@@ -278,30 +278,3 @@ footer div {
     color: #777;
 }
 
-/* PAGE 2*/
-
-#page-2-1 h1 {
-    margin: 35px 0 0 25px;
-    padding-bottom: 100px;
-    display: inline-block
-}
-
-#page-2-1 a {
-    font-family: 'Crete round', sans-serif;
-    font-weight: bold;
-    font-size: 40px;
-    float: right;
-    margin: 35px 35px 0px 0;
-}
-
-#page-2-2 iframe {
-    margin: 0 auto;
-    display: block;
-    border: 15px solid dodgerblue;
-    margin-bottom: 150px;
-}
-
-#page-2-1 a:hover {
-    color: dodgerblue;
-}
-
