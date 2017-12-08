@@ -65,6 +65,14 @@ small {
     font-style: italic;
 }
 
+input[type="text"] {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+}
+
 /* HEADER */
 
 header {
@@ -235,14 +243,6 @@ label {
     font-size: 20px;
     margin-right: 10px;
     color: #777;
-}
-
-input[type="text"] {
-    padding: 10px;
-    font-size: 20px;
-    margin-right: 20px;
-    border: 2px solid #ddd;
-    border-radius: 3px;
 }
 
 .button-3 {
